@@ -7,6 +7,11 @@ https://github.com/davidsandberg/facenet
 
 https://github.com/nwesem/mtcnn_facenet_cpp_tensorRT
 
+# Project Result
+![image](https://user-images.githubusercontent.com/53935607/228688502-71634813-e2ad-49bf-8a0c-ff3e2bc9a559.png)
+![image](https://user-images.githubusercontent.com/53935607/228688415-37ef66c0-fe60-46c9-acc1-42afb4369957.png)
+
+
 # Face Recognition for NVIDIA Jetson (Nano) using TensorRT
 Face recognition with [Google FaceNet](https://arxiv.org/abs/1503.03832)
 architecture and retrained model by David Sandberg
